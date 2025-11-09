@@ -159,7 +159,7 @@ Test before committing
 
 Mail:kishore279k@gmail.com
 
-GitHub: https://github.com/kishore046
+GitHub: https://github.com/kishores046
 
 LinkedIn: www.linkedin.com/in/kishore-s-6b299b290
 
